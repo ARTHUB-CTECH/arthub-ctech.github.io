@@ -15,3 +15,5 @@ Goal is to become trusted by artists all around
 <br>
 <br>
 If you can't donate you can support via word of mouth.
+<br>
+You can visit arthub via [arthub.github.io](https://arthub.github.io) or [arthub.is-great.org](https://arthub.is-great.org)
