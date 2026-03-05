@@ -16,4 +16,4 @@ Goal is to become trusted by artists all around
 <br>
 If you can't donate you can support via word of mouth.
 <br>
-You can visit arthub via [arthub-ctech.github.io](https://arthub-ctech.github.io) or [arthub.is-great.org](https://arthub.is-great.org)
+You can visit arthub via https://arthub-ctech.github.io or https://arthub.is-great.org
